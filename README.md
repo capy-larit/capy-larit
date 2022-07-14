@@ -1,4 +1,4 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capy-larit&show_icons=true&theme=aura_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capy-larit&layout=compact&theme=aura_dark)](https://github.com/capy-larit/github-readme-stats)
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=capy-larit&show_icons=true&theme=aura_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capy-larit&layout=compact&theme=aura_dark&langs_count=10&exclude_repo=challengeDevops,life-share"/>
+</div>
