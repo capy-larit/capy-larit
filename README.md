@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=capy-larit&show_icons=true&theme=aura_dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capy-larit&layout=compact&theme=aura_dark&langs_count=10&exclude_repo=challengeDevops,life-share"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=capy-larit&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capy-larit&layout=compact&theme=midnight-purple&langs_count=10&hide_border=true&exclude_repo=challengeDevops,life-share"/>
 </div>
 
 
